@@ -18,14 +18,15 @@ Curated list of awesome Rosette software and resources
 1. [Python](https://github.com/rosette-api/python) - Python interface to Rosette API
 1. [Ruby](https://github.com/rosette-api/ruby) - Ruby interface to Rosette API 
 
-## plug-ins
+## Plug-ins
 
 *Plug-ins and extensions for various systems systems, such as Elasticsearch, Chrome and MS Office*
 
 1. [Document Enrichment Plug-in](https://github.com/rosette-api/csharp) - Ingest plug-in for Elasticsearch that performs Language Identification, Sentiment Analysis, Entity Extraction, Categorization, and Name Translation on documents 
+1. [Google Chrome Extension](https://github.com/rosette-api-community/chrome-ext-entities) - Chrome extension to extract entities from web pages 
 1. [MS Excel add-in](https://github.com/rosette-api-community/rosette-for-excel) - MS Excel add-in to add NLP to Excel
 
-## fun-projects
+## Fun Projects
 
 *Fun and interesting projects using Rosette for NLP and Text Analytics*
 
