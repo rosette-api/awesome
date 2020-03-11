@@ -7,7 +7,7 @@ Curated list of awesome Rosette software and resources
 1. [Plug-ins](#plug-ins)
 1. [Fun Projects](#fun-projects)
 
-## bindings
+## Bindings
 
 *Classes for accessing Rosette API in different software languages*
 
