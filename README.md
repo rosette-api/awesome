@@ -1,5 +1,5 @@
 # awesome
-Curated list of awesome Rosette software and resources.
+Curated list of awesome Rosette software and resources
 
 ## Contents
 
@@ -24,7 +24,6 @@ Curated list of awesome Rosette software and resources.
 
 1. [Document Enrichment Plug-in](https://github.com/rosette-api/csharp) - Ingest plug-in for Elasticsearch that performs Language Identification, Sentiment Analysis, Entity Extraction, Categorization, and Name Translation on documents 
 1. [MS Excel add-in](https://github.com/rosette-api-community/rosette-for-excel) - MS Excel add-in to add NLP to Excel
-1. [C#](https://github.com/rosette-api/csharp) - C# interface to Rosette API 
 
 ## fun-projects
 
