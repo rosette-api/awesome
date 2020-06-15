@@ -26,6 +26,9 @@ Curated list of awesome Rosette software and resources
 1. [Google Chrome Extension](https://github.com/rosette-api-community/chrome-ext-entities) - Chrome extension to extract entities from web pages 
 1. [MS Excel add-in](https://github.com/rosette-api-community/rosette-for-excel) - MS Excel add-in to add NLP to Excel
 
+## Kubernetes
+1. [Helm Recipe](https://github.com/rosette-api/helm) - Using Helm, setup and run Rosette Enterprise with the roots hosted on an NFS server.
+
 ## Fun Projects
 
 *Fun and interesting projects using Rosette for NLP and Text Analytics*
