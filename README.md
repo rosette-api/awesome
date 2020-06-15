@@ -6,6 +6,7 @@ Curated list of awesome Rosette software and resources
 1. [Bindings](#bindings)
 1. [Plug-ins](#plug-ins)
 1. [Fun Projects](#fun-projects)
+1. [Kubernetes](#kubernetes)
 
 ## Bindings
 
