@@ -6,6 +6,7 @@ Curated list of awesome Rosette software and resources
 1. [Bindings](#bindings)
 1. [Plug-ins](#plug-ins)
 1. [Fun Projects](#fun-projects)
+1. [Kubernetes](#kubernetes)
 
 ## Bindings
 
@@ -25,6 +26,9 @@ Curated list of awesome Rosette software and resources
 1. [Document Enrichment Plug-in](https://github.com/rosette-api/rosette-elasticsearch-plugin) - Ingest plug-in for Elasticsearch that performs Language Identification, Sentiment Analysis, Entity Extraction, Categorization, and Name Translation on documents 
 1. [Google Chrome Extension](https://github.com/rosette-api-community/chrome-ext-entities) - Chrome extension to extract entities from web pages 
 1. [MS Excel add-in](https://github.com/rosette-api-community/rosette-for-excel) - MS Excel add-in to add NLP to Excel
+
+## Kubernetes
+1. [Helm Recipe](https://github.com/rosette-api/helm) - Using Helm, setup and run Rosette Enterprise with the roots hosted on an NFS server.
 
 ## Fun Projects
 
