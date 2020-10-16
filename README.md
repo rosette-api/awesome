@@ -40,6 +40,11 @@ comparing the similarity of names, categorizing and adding linguistic tags to te
 1. [MS Excel add-in](https://github.com/rosette-api-community/rosette-for-excel) - MS Excel add-in to add NLP to Excel
 1. [RapidMiner](https://marketplace.rapidminer.com/UpdateServer/faces/product_details.xhtml?productId=rmx_rosette_text_toolkit) - RapidMiner extension
 
+## Sample code
+
+1. [SQLite Knowledge Base Connector](https://github.com/rosette-api/sqlite-kb-connector) - Sample knowledge base connector for Rosette Entity Extractor
+1. [Custom Processor Sample](https://github.com/rosette-api/custom-processor-sample) - Sample custom processor for Rosette Entity Extractor
+
 ## Kubernetes
 1. [Helm Recipe](https://github.com/rosette-api/helm) - Using Helm, setup and run Rosette Enterprise with the roots hosted on an NFS server.
 
